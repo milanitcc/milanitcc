@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Milan
 - ⚡ Fun fact: Nothing
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&layout=compact&theme=dark&show_icons=true" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&hide=javascript,css,scss,html&theme=tokyonight" />
