@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Nothing
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&theme=tokyonight" />
+
+https://activity-graph.herokuapp.com/graph?username=milanitcc&theme=dracula
