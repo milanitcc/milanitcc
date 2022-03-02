@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=milanitcc&theme=dark)
 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&theme=tokyonight" />
+
 - 🔭 I’m currently working on Disave
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: milan@itccdigital.com
 - 😄 Pronouns: Milan
 - ⚡ Fun fact: Nothing
-
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&theme=tokyonight" />
 
 ![Milan's github activity graph](https://activity-graph.herokuapp.com/graph?username=milanitcc&theme=dracula)
