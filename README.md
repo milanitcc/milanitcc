@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanitcc&theme=tokyonight" />
 
-[![Milan's github activity graph](https://activity-graph.herokuapp.com/graph?username=milanitcc&theme=dracula)]
+![Milan's github activity graph](https://activity-graph.herokuapp.com/graph?username=milanitcc&theme=dracula)
