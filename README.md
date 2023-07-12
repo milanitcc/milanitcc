@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanitcc" alt="milanitcc" /></a> </p>
 
-- 🔭 I’m currently working on vue.js [New Brighton Capital](https://portal.newbrightoncapital.com)
+- 🔭 I’m currently working on Laravel [New Brighton Capital](https://portal.newbrightoncapital.com)
 
 - 👯 I’m looking to collaborate on New Brighton Capital **New Brighton Capital**
 
