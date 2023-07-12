@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on vue.js [New Brighton Capital](https://portal.newbrightoncapital.com)
 
-- 👯 I’m looking to collaborate on Disave-Backend **New Brighton Capital**
+- 👯 I’m looking to collaborate on New Brighton Capital **New Brighton Capital**
 
 - ⚡ Fun fact **Nothing**
 
