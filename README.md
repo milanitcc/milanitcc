@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanitcc" alt="milanitcc" /></a> </p>
 
-- 🔭 I’m currently working on vue.js [Disave](https://disave.itcc.net.au)
+- 🔭 I’m currently working on vue.js [New Brighton Capital](https://portal.newbrightoncapital.com)
 
-- 👯 I’m looking to collaborate on Disave-Backend **Disave**
+- 👯 I’m looking to collaborate on Disave-Backend **New Brighton Capital**
 
 - ⚡ Fun fact **Nothing**
 
