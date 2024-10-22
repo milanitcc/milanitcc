@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milanitcc" alt="milanitcc" /></a> </p>
 
-- 🔭 I’m currently working on Laravel [Blossom] (https://letsblossomus.com/)
+- 🔭 I’m currently working on Laravel [Blossom](https://letsblossomus.com/)
 
 - 👯 I’m looking to collaborate on New Brighton Capital **New Brighton Capital**
 
